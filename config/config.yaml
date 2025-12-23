@@ -144,7 +144,7 @@ notification:
     telegram_bot_token: "" # Telegram Bot Token（多账号用 ; 分隔，需与 chat_id 数量一致）
     telegram_chat_id: "" # Telegram Chat ID（多账号用 ; 分隔，需与 bot_token 数量一致）
     email_from: "xiaolajiao0705@163.com" # 发件人邮箱地址
-    email_password: "this138" # 发件人邮箱密码或授权码
+    email_password: "RPaGCDu6kUPgv7nm" # 发件人邮箱密码或授权码
     email_to: "vertuflt@hotmail.com" # 收件人邮箱地址，多个收件人用逗号分隔
     email_smtp_server: "smtp.163.com" # SMTP服务器地址（可选，留空自动识别）
     email_smtp_port: "" # SMTP端口（可选，留空自动识别）
